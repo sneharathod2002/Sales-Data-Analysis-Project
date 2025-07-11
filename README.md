@@ -19,15 +19,25 @@ A beginner-friendly data analytics project that explores business sales trends u
 
 Sales-Data-Analysis-Project/
 ├── data/ # Raw and cleaned datasets
+
 │ ├── sales_data_large.csv
+
 │ └── sales_data_cleaned.csv
+
 ├── notebooks/ # Python code for cleaning and EDA
+
 │ ├── data_cleaning.py
+
 │ └── eda.py
+
 ├── visuals/ # Static charts and screenshots
+
 │ └── dashboard_preview.png
+
 ├── powerbi/ # Power BI .pbix file
+
 │ └── SalesDashboard.pbix
+
 └── README.md # Project overview and documentation
 
 
